@@ -18,7 +18,7 @@
 
 ### 🎯 Breve Resumo
 
-Códigos/cursos feitos na plataforma da Rocketseat no módulo do Ignite, repositório criado para estudos/aprofundamento.
+Códigos/cursos feitos na plataforma da Rocketseat no módulo do **Ignite**, repositório criado para estudos/aprofundamento.
 
 #### Descrição:
 
@@ -38,10 +38,11 @@ Códigos/cursos feitos na plataforma da Rocketseat no módulo do Ignite, reposit
   <strong>Ignite Feed</strong>
 </div>
 
-- Projeto desenvolvido para introdução aos conceitos do **React** como, componentes, props ...
+- Projeto desenvolvido para introdução aos conceitos do **React** como, componentes, props;
 - Projeto inicial que simula um feed de rede social;
-
+- Utilizado a biblioteca **Date-Fns** para formatação de datas;
 - Acesse o [figma do projeto](https://www.figma.com/community/file/1113573231685349036/Ignite-Feed)
+
 <details>
 <summary>
 🚀 Esse projeto foi desenvolvido com as seguintes tecnologias:  <a id="tecnologias"></a>
