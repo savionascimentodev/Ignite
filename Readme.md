@@ -18,7 +18,7 @@
 
 ### 🎯 Breve Resumo
 
-Códigos/cursos feitos na plataforma da Rocketseat no módulo do **Ignite**, repositório criado para estudos/aprofundamento.
+Códigos/cursos feitos na plataforma da Rocketseat no curso do **Ignite**, repositório criado para estudos/aprofundamento.
 
 #### Descrição:
 
@@ -31,6 +31,8 @@ Códigos/cursos feitos na plataforma da Rocketseat no módulo do **Ignite**, rep
 
 ---
 
+# 💎 Trilha React ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 ## 👾 Projetos <a id="projects"></a>
 
 <div align="center">
@@ -38,21 +40,18 @@ Códigos/cursos feitos na plataforma da Rocketseat no módulo do **Ignite**, rep
   <strong>Ignite Feed</strong>
 </div>
 
-- Projeto desenvolvido para introdução aos conceitos do **React** como, componentes, props;
+- Projeto desenvolvido para introdução aos conceitos do **React** como, **componentes**, **props**;
 - Projeto inicial que simula um feed de rede social;
 - Utilizado a biblioteca **Date-Fns** para formatação de datas;
-- Acesse o [figma do projeto](https://www.figma.com/community/file/1113573231685349036/Ignite-Feed)
+- Conceito de **Hooks**:
+  - **UseState**;
+- Acesse o [figma do projeto](https://www.figma.com/community/file/1113573231685349036/Ignite-Feed);
 
 <details>
 <summary>
 🚀 Esse projeto foi desenvolvido com as seguintes tecnologias:  <a id="tecnologias"></a>
 </summary>
 
-<h6></h6>
-
-[![HTML5](https://img.shields.io/badge/-HTML5-F06426?style=flat-square&logoColor=fff&logo=HTML5)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-5DAFEF?style=flat-square&logoColor=fff&logo=CSS3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat-square&logoColor=fff&logo=javascript)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma)
 
@@ -70,10 +69,68 @@ Códigos/cursos feitos na plataforma da Rocketseat no módulo do **Ignite**, rep
 
 ---
 
+# 📱 Trilha React Native ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+## 👾 Projetos <a id="projects"></a>
+
+<div align="center">
+  <strong>Evento Fictício</strong>
+
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
+
+</div>
+
+- Projeto desenvolvido em **Expo** para introdução aos conceitos do **ReactNative** como, **componentes**, **props**;
+- Projeto inicial que simula uma lista de convidados, com as funcionalidades de **Adicionar** e **Remover** participantes na lista, com **Validação** se o nome do usuário ja existe;
+- Conceito de **Hooks**:
+  - **UseState**;
+- No ReactNative o padrão de css é **Flex**;
+- Aprendido os conceitos de **FlatList** e **ScrollView**, **TouchableOpacity**, **TextInput**;
+
+#### Mobile Screenshot:
+
+<img src="./assets/reactNative/EventoFicticio01.jpeg" height="600">
+<img src="./assets/reactNative/EventoFicticio02.jpeg" height="600">
+<img src="./assets/reactNative/EventoFicticio03.jpeg" height="600">
+
+---
+
 <div align="center">
   
 ### 🚧 Projetos em fase de Construção...⏳
 ##### Mais projetos em breve...
+
+</div>
+
+---
+
+## 🏆 Desafios <a id="desafios"></a>
+
+<div align="center">
+
+<strong>To-do</strong>
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
+
+</div>
+
+- **Desafio 01** da Trilha **ReactNative**;
+- **Aplicação** de **controle de tarefas** no estilo **to-do list**, que contém as seguintes funcionalidades:
+  - **Adicionar** uma nova tarefa;
+  - **Marcar** e **desmarcar** uma tarefa como **concluída**;
+  - **Remover** uma tarefa da listagem;
+  - Mostrar o **progresso** de **conclusão das tarefas**;
+- **Conceitos utilizados:**
+  - **Estados**;
+  - **Imutabilidade** do estado;
+  - **Listas** e **chaves** no React Native;
+  - **Propriedades**;
+  - **Componentização**;
+
+<div align="center">
+
+### 🚧 Desafios em fase de Construção...⏳
+
+##### Mais desafios em breve...
 
 </div>
 
